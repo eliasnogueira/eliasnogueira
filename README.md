@@ -23,6 +23,6 @@ I help professional Java developers to develop their quality mindset and deliver
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eliasnogueira&hide=["issues,totalPRs"]&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eliasnogueira&hide=["totalPRs","issues"])
 
 
