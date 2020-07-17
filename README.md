@@ -15,9 +15,10 @@
 <br />
 <br/>
 
+I help professional Java developers to develop their quality mindset and deliver bug-free software so they become top-level developers and get hired for the best positions in the market.
+
 - 🔭 I’m currently working as a Software Enginner in Test
-- 🌱 I’m currently learning Quarkus
-- I have an awesome page listing all my initiatives ![](https://badgen.net/badge/icon/public-speaking?icon=github&label)
+- 😀 I have an awesome page listing all my initiatives ![](https://badgen.net/badge/icon/public-speaking?icon=github&label)
 
 <br />
 
