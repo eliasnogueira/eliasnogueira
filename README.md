@@ -15,7 +15,7 @@
 <br />
 <br/>
 
-> **I help professional Java developers to develop their quality mindset and deliver bug-free software so they become top-level developers and get hired for the best positions in the market.**
+**I help professional Java developers to develop their quality mindset and deliver bug-free software so they become top-level developers and get hired for the best positions in the market.**
 
 - 🤖 I’m currently working as a Software Enginner in Test
 - 🌐 I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
