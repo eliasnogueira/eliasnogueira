@@ -1,6 +1,4 @@
 ### Hi there, I'm Elias Nogueira 👋
-
-<br/>
 <a href="https://twitter.com/eliasnogueira">
   <img align="left" alt="Elias Nogueira| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,6 +13,7 @@
 </a>
 
 <br />
+<br/>
 
 - 🔭 I’m currently working as a Software Enginner in Test
 - 🌱 I’m currently learning Quarkus
