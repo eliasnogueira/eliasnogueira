@@ -19,7 +19,7 @@
 
 - 🤖 I’m currently working as a Software Enginner in Test
 - 🌐 I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
-- 😀 I also have an awesome page listing all my initiatives ![https://github.com/eliasnogueira/public-speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)
+- 😀 I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/eliasnogueira/public-speaking)
 
 <br />
 
