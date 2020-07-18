@@ -6,9 +6,9 @@
 
 **I help professional Java developers to develop their quality mindset and deliver bug-free software so they become top-level developers and get hired for the best positions in the market.**
 <br/>
-🤖  I’m currently working as a Lead Software Enginner in Test at Backbase in the R&D team based on Amsterdam
-🌐  I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
-😀  I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/eliasnogueira/public-speaking)
+* 🤖  I’m currently working as a Lead Software Enginner in Test at Backbase in the R&D team based on Amsterdam
+* 🌐  I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
+* 😀  I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/eliasnogueira/public-speaking)
 
 <br />
 
