@@ -17,4 +17,5 @@
 [![ebook](img/ebook.png)](http://www.eliasnogueira.com/5-tools-java-developers-can-use-to-deliver-high-quality-software/)
 
 <br />
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eliasnogueira&hide=["prs","issues"])
