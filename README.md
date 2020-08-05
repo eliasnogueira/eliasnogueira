@@ -14,7 +14,7 @@
 
 <br />
 
-[![ebook](./img/ebook.png)](http://www.eliasnogueira.com/5-tools-java-developers-can-use-to-deliver-high-quality-software/)
+[![ebook](https://github.com/eliasnogueira/eliasnogueira/blob/master/img/ebook.png)](http://www.eliasnogueira.com/5-tools-java-developers-can-use-to-deliver-high-quality-software/)
 
 <br />
 
