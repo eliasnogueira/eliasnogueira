@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
 [![Slidehare Badge](https://img.shields.io/badge/-See&nbsp;my&nbsp;presentations-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
 [![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira) 
+[![Podcast](https://img.shields.io/badge/-Listen%20on%20Spotify-black?style=flat-square&logo=Spotify&link=#)](#) 
 ![Profile views](https://komarev.com/ghpvc/?username=eliasnogueira&style=flat-square)
 
 **I help professional Java developers to develop their quality mindset and deliver bug-free software so they become top-level developers and get hired for the best positions in the market.**
