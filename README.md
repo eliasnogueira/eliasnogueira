@@ -1,5 +1,5 @@
 ## Hi there, I'm Elias Nogueira 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
 [![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;presentations-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
