@@ -12,7 +12,7 @@
 * 🤖  I’m a Software Engineer in Test 
 * 🌐  I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
 * 😀  I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/eliasnogueira/public-speaking)
-* ❓ Do you have a question? Send an issue to me [![Send your question](https://badgen.net/github/issues/eliasnogueira/eliasnogueira)](https://github.com/eliasnogueira/eliasnogueira/issues)
+* ❓ What is the biggest challenge you're facing? Tell me more about it [![Send your question](https://badgen.net/github/issues/eliasnogueira/eliasnogueira)](https://github.com/eliasnogueira/eliasnogueira/issues)
 
 <br />
 
