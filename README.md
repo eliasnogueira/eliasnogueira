@@ -4,7 +4,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;presentations-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
 [![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira) 
-[![Podcast](https://img.shields.io/badge/-Listen%20on%20Spotify-black?style=flat-square&logo=Spotify&link=#)](#) 
 ![Profile views](https://komarev.com/ghpvc/?username=eliasnogueira&style=flat-square)
 
 **I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.**
