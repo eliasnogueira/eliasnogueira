@@ -1,12 +1,13 @@
 ## Hi there, I'm Elias Nogueira 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
-[![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
-[![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
-[![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=flat-square&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
-[![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira) 
-[![Leanpub](https://img.shields.io/badge/-My%20books-FDFDFD?style=flat-square&logo=leanpub&logoColor=black&link=https://leanpub.com/u/eliasnogueira)](https://leanpub.com/u/eliasnogueira) 
-![Profile views](https://komarev.com/ghpvc/?username=eliasnogueira&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=for-the-badge)](https://twitter.com/eliasnogueira)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
+[![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
+[![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=for-the-badge&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
+[![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
+[![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Leanpub](https://img.shields.io/badge/-My%20books-FDFDFD?style=for-the-badge&logo=leanpub&logoColor=black&link=https://leanpub.com/u/eliasnogueira)](https://leanpub.com/u/eliasnogueira) 
+![Profile views](https://komarev.com/ghpvc/?username=eliasnogueira&style=for-the-badge)
 
 **I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.**
 <br/>
