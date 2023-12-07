@@ -22,6 +22,10 @@
 
 <br />
 
+![Java Champion logo](https://github.com/eliasnogueira/eliasnogueira/blob/master/img/jc-program-logo.png)
+
+<br />
+
 [![ebook](https://github.com/eliasnogueira/eliasnogueira/blob/master/img/ebook.png)](http://www.eliasnogueira.com/ebook-5-tools-java-developers/)
 
 <br />
