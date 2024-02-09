@@ -8,8 +8,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dropsoftesting)
 [![Leanpub](https://img.shields.io/badge/-My%20books-FDFDFD?style=for-the-badge&logo=leanpub&logoColor=black&link=https://leanpub.com/u/eliasnogueira)](https://leanpub.com/u/eliasnogueira) 
 
-![Profile views](https://komarev.com/ghpvc/?username=eliasnogueira&style=for-the-badge)
-
 **I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.**
 <br/>
 * 🤖 I’m a Software Engineer focusing on Quality Engineering
