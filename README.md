@@ -21,7 +21,7 @@
 
 <br />
 
-![Java Champion logo](https://github.com/eliasnogueira/eliasnogueira/blob/master/img/jc-program-logo.png)
+![Java Champion logo](https://github.com/eliasnogueira/eliasnogueira/blob/master/img/jc-program-logo.png) <img src="https://github.com/eliasnogueira/eliasnogueira/blob/master/img/S%2BT4_ACEPro_rev_rgb.png" width="250" />
 
 <br />
 
