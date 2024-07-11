@@ -17,7 +17,6 @@
 * 📰 I'm one of the Java Magazine NL editors
 * 🌐 I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
 * 😀 I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/eliasnogueira/public-speaking)
-* ❓  What is the biggest challenge you're facing? Tell me more about it [![Send your question](https://badgen.net/github/issues/eliasnogueira/eliasnogueira)](https://github.com/eliasnogueira/eliasnogueira/issues)
 
 <br />
 
