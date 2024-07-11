@@ -1,7 +1,6 @@
 ## Hi there, I'm Elias Nogueira 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=for-the-badge)](https://twitter.com/eliasnogueira)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
-[![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=for-the-badge&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
 [![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
 [![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira)
