@@ -1,6 +1,6 @@
 # Hi there, I'm Elias Nogueira 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=for-the-badge)](https://twitter.com/eliasnogueira)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/elias-nogueira.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/elias-nogueira.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=for-the-badge&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
 [![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
