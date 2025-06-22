@@ -33,6 +33,12 @@
 * [How to create Lean Test Automation Architecture for Web Suing Java Libraries](https://www.eliasnogueira.com/how-to-create-lean-test-automation-architecture-for-web-using-java-libraries/)
 * [100 Tips of Testing with Java](https://eliasnogueira.github.io/100-tips-testing-java/)
 
+### Latest talks
+
+* [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) at [InfoQ Dev Summit](https://devsummit.infoq.com/) in Boston, USA
+* [Beyond Unit Tests: Practical Tools for High-Quality Java Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) at [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336) in Amsterdam, the Netherlands
+* [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) at [DevNexus](https://devnexus.com/) in Atlanta, USA
+
 ### ebook
 
 [![ebook](https://github.com/eliasnogueira/eliasnogueira/blob/master/img/ebook.png)](https://eliasnogueira.com/5-tools-java-developers-can-use-to-deliver-high-quality-software/)
