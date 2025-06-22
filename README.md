@@ -5,7 +5,7 @@
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=for-the-badge&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
 [![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
 
-**I help professional software engineers (backend, frontend, QA) develop their quality mindset and deliver bug-free software, enabling them to become top-level engineers and secure the best positions in the market. ****
+**I help professional software engineers (backend, frontend, QA) develop their quality mindset and deliver bug-free software, enabling them to become top-level engineers and secure the best positions in the market.**
 <br/>
 * 🤖 I’m a Software Engineer focusing on Quality Engineering
 * 🧑‍💻 I'm currently working as a Lead Principal Software Engineer
