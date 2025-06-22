@@ -5,12 +5,12 @@
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=for-the-badge&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
 [![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=for-the-badge&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
 
-**I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.**
+**I help professional software engineers (backend, frontend, QA) develop their quality mindset and deliver bug-free software, enabling them to become top-level engineers and secure the best positions in the market. ****
 <br/>
 * 🤖 I’m a Software Engineer focusing on Quality Engineering
-* 🧑‍💻 I'm currently working as a Senior Principal Software Engineer
-* 🏆 I'm a Java Champion
-* ♠️ I'm an Oracle ACE for Java
+* 🧑‍💻 I'm currently working as a Lead Principal Software Engineer
+* 🏆 I'm a [Java Champion](https://javachampions.org/index.html) (a lifetime recognition for the Java community-focused contributions)
+* ♠️ I'm an [Oracle ACE PRO](https://ace.oracle.com/ords/ace/profile/eliasnogueira) for Java (a professional Java recognition by Oracle)
 * 📰 I'm one of the Java Magazine NL editors
 * 🌐 I have a [personal blog](http://eliasnogueira.com) where you can find a lot of content about  Quality Engineering
 * 😀 I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/eliasnogueira/public-speaking)
