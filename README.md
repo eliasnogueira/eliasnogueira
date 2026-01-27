@@ -26,6 +26,7 @@ I help software teams deliver with confidence by designing scalable test archite
 
 ### Latest blog posts
 
+* [Custom JUnit 5 Extensions for Testing](https://eliasnogueira.com/custom-junit-5-extensions-for-testing/)
 * [Assert with Grace: Custom Soft Assertions using AssertJ for Cleaner Code](https://eliasnogueira.com/assert-with-grace-custom-soft-assertions-using-assertj-for-cleaner-code/)
 * [How to simulate real BeforeAll and AfterAll in JUnit 5](https://eliasnogueira.com/how-to-simulate-real-beforeall-and-afterall-in-junit-5/)
 * [JUnit 5 – When to use CSV Providers](https://eliasnogueira.com/junit-5-when-to-use-csv-providers/)
