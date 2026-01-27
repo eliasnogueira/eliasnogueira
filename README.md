@@ -49,7 +49,7 @@ Below are some highlighted repositories that represent my work and areas of inte
 Each project focuses on **clarity, reproducibility, and real-world applicability**.
 
 ### 🔹 Selenium Java – Lean Test Architecture
-**Repository:** `selenium-java-lean-test-architecture`  
+**Repository:** [selenium-java-lean-test-architecture](https://github.com/eliasnogueira/selenium-java-lean-test-architecture)
 A practical example of a maintainable and scalable Selenium test architecture focused on readability and long-term evolution.
 
 **Focus areas:**
@@ -62,7 +62,7 @@ A practical example of a maintainable and scalable Selenium test architecture fo
 ---
 
 ### 🔹 REST Assured – Complete Basic Example
-**Repository:** `restassured-complete-basic-example`  
+**Repository:** [restassured-complete-basic-example](https://github.com/eliasnogueira/restassured-complete-basic-example)
 A hands-on REST Assured project showing best practices for API testing with Java.
 
 **Focus areas:**
@@ -72,16 +72,6 @@ A hands-on REST Assured project showing best practices for API testing with Java
 - CI-friendly execution
 
 ---
-
-### 🔹 Payment System (Testing Playground)
-**Repository:** `payment-system`  
-A playground project to demonstrate testing strategies for distributed systems.
-
-**Focus areas:**
-- Integration testing
-- Test data generation
-- Multi-layer testing approach
-- Placeholder: add architectural diagram link
 
 ## 📚 ebook
 
