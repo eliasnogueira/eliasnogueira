@@ -50,6 +50,7 @@ Each project focuses on **clarity, reproducibility, and real-world applicability
 
 ### 🔹 Selenium Java – Lean Test Architecture
 **Repository:** [selenium-java-lean-test-architecture](https://github.com/eliasnogueira/selenium-java-lean-test-architecture)
+
 A practical example of a maintainable and scalable Selenium test architecture focused on readability and long-term evolution.
 
 **Focus areas:**
@@ -63,6 +64,7 @@ A practical example of a maintainable and scalable Selenium test architecture fo
 
 ### 🔹 REST Assured – Complete Basic Example
 **Repository:** [restassured-complete-basic-example](https://github.com/eliasnogueira/restassured-complete-basic-example)
+
 A hands-on REST Assured project showing best practices for API testing with Java.
 
 **Focus areas:**
